@@ -1,10 +1,10 @@
-global.you = ['6281368176386','6283840588676','6283802603905','5219996125657', '6283170404188', '6283175886677', '6282181661561'] // Developer Bot
-global.rowner = ['6281368176386','6283840588676','6283802603905'] // Real Owner Bot
-global.owner = ['6281368176386','6283840588676','6283802603905'] // Owner Bot
-global.police = ['6281368176386','6283840588676','6283802603905'] // Police Bot
-global.mods = ['6281368176386','6283840588676','6283802603905']  // Want some help?
-global.prems = ['6281368176386','6283840588676','6283802603905'] // Premium user has unlimited limit
-global.helper = ['6281368176386','6283840588676','6283802603905']
+global.you = ['6285875063235'] // Developer Bot
+global.rowner = ['6285875063235'] // Real Owner Bot
+global.owner = ['6285875063235'] // Owner Bot
+global.police = ['6285875063235'] // Police Bot
+global.mods = ['6285875063235']  // Want some help?
+global.prems = ['6285875063235'] // Premium user has unlimited limit
+global.helper = ['6285875063235']
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -44,9 +44,9 @@ global.socket = {
 global.useMulti = false //Bug?
 
 // Sticker WM
-global.packname = 'ghost-bot'
-global.author = 'ghost-Bot'
-global.wm = '© ghost👻~Bot'
+global.packname = 'zar-bot'
+global.author = 'zar-Bot'
+global.wm = '© Zar~Bot'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
