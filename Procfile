@@ -1,1 +1,1 @@
-worker: npm i github:adiwajshing/Baileys && npm start
+worker: node.
